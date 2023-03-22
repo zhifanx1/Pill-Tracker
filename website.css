@@ -1,0 +1,31 @@
+header h1{
+    padding: 60px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 50px;
+    font-family: Lucida Sans, Helvetica, Arial, sans-serif;
+}
+
+body {
+    font-family: Lucida Sans, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+}
+
+form {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+img {
+    height: auto;
+    width: auto;
+}
